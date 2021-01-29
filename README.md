@@ -14,6 +14,6 @@ It allows you to keep the distraction away. Currently available for only Mac.
 
 ## Tiddly Wiki
 
-Note taking software. It's like a quine - a self replicating html file - with a rich library of plugins. I even use to host my notes as static website on github.
+Note taking software. It's like a quine - a self replicating html file - with a rich library of plugins. I use it to host my [notes](https://notes.anshulkhare.in/) as static website on github.
 
 
