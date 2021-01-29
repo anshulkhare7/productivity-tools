@@ -6,7 +6,7 @@ Ditto is an extension to the standard windows clipboard. It has a quick and easy
 
 ## Anki 
 
-Anki is an intelligent flash card program that makes remembering things easy. It's based on the idea of [spaced-repetition](https://ncase.me/remember/). Though using someone else's Anki decks aren't much useful but I am sharing mine just in case you want to have a look. 
+Anki is an intelligent flash card program that makes remembering things easy. It's based on the idea of [spaced-repetition](https://ncase.me/remember/). Though using someone else's Anki decks isn't much useful but I am sharing mine just in case you want to have a look. 
 
 * [Countries, Language, Keyboard shortcuts etc.](https://github.com/anshulkhare7/ankidecks)
 * [Multidisciplinary mental models.](https://ankiweb.net/shared/info/1729819997)
