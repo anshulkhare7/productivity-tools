@@ -22,3 +22,6 @@ It allows you to keep the distraction away. Currently available for only Mac.
 Note taking software. It's like a quine - a self replicating html file - with a rich library of plugins. I use it to host my [notes](https://notes.anshulkhare.in/) as static website on github.
 
 
+## Auto Hot Key
+
+Very useful tool for automating stuff in windows. I primarily use for remapping keyboard keys and custom shortcuts etc.
