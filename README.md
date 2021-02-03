@@ -24,4 +24,4 @@ Note taking software. It's like a quine - a self replicating html file - with a 
 
 ## Auto Hot Key
 
-Very useful tool for automating stuff in windows. I primarily use for remapping keyboard keys and custom shortcuts etc.
+Very useful tool for automating stuff in windows. I primarily use for remapping keyboard keys and custom shortcuts etc. [My autohotkey scripts](https://github.com/anshulkhare7/productivitytools/blob/main/key-remapping.ahk)
