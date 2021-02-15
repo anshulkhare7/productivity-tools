@@ -10,8 +10,30 @@ return
 !Esc::
 Send, {Enter}
 
+; convert to lower ;
+^#l::                                                                
+ Convert_Lower()
+RETURN
+
+; convert to upper case
+^#u::                                                                
+ Convert_Upper()
+RETURN
+
+; convert to capitalized case
+^#k::                                                                
+ Convert_Cap()
+RETURN
+
+
 ::qc::Quick call?
 ::mvn::mvn clean install -DskipTests
+
+; Windows Key + P (Not working)
+<#p::switchToPostman()
+
+; Windows Key + V (Not working)
+<#v::switchToVSCode()
 
 ; Windows Key + C
 <#c::switchToChrome()
@@ -31,8 +53,9 @@ Send, {Enter}
 ; Windows Key + F
 <#f::switchToFirefox()
 
-; Windows Key + V
-<#v::switchToVSCode()
+
+; Windows Key + X 
+<#X::switchToWindowsTerminal()
 
 switchToIntellij()
 {
@@ -108,4 +131,57 @@ IfWinNotExist, ahk_exe Code.exe
     Run, Code.exe
 
 WinActivate ahk_class Chrome_WidgetWin_1       
+}
+
+switchToWindowsTerminal()
+{
+IfWinNotExist, ahk_exe WindowsTerminal.exe
+    Run, WindowsTerminal.exe
+
+WinActivate ahk_class CASCADIA_HOSTING_WINDOW_CLASS
+}
+
+switchToPostman()
+{
+IfWinNotExist, ahk_exe Postman.exe
+    Run, Postman.exe
+
+WinActivate ahk_class Chrome_WidgetWin_1
+}
+
+Convert_Lower()
+{
+ Clip_Save:= ClipboardAll                                                 ; save original contents of clipboard
+ Clipboard:= ""                                                           ; empty clipboard
+ Send ^c{delete}                                                          ; copy highlighted text to clipboard
+ StringLower Clipboard, Clipboard                                         ; convert clipboard to desired case
+ Send %Clipboard%                                                         ; send desired text
+ Len:= Strlen(Clipboard)
+ Send +{left %Len%}                                                       ; highlight text
+ Clipboard:= Clip_Save                                                    ; restore clipboard
+}
+
+
+Convert_Upper()
+{
+ Clip_Save:= ClipboardAll                                                 ; save original contents of clipboard
+ Clipboard:= ""                                                           ; empty clipboard
+ Send ^c{delete}                                                          ; copy highlighted text to clipboard
+ StringLower Clipboard, Clipboard                                         ; convert clipboard to desired case
+ Send %Clipboard%                                                         ; send desired text
+ Len:= Strlen(Clipboard)
+ Send +{left %Len%}                                                       ; highlight text
+ Clipboard:= Clip_Save                                                    ; restore clipboard
+}
+
+Convert_Cap()
+{
+ Clip_Save:= ClipboardAll                                                 ; save original contents of clipboard
+ Clipboard:= ""                                                           ; empty clipboard
+ Send ^c{delete}                                                          ; copy highlighted text to clipboard
+ StringLower Clipboard, Clipboard                                         ; convert clipboard to desired case
+ Send %Clipboard%                                                         ; send desired text
+ Len:= Strlen(Clipboard)
+ Send +{left %Len%}                                                       ; highlight text
+ Clipboard:= Clip_Save                                                    ; restore clipboard
 }
