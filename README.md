@@ -30,3 +30,15 @@ Chrome plugin for mouse(touchpad)-free browsing. You can pretty much do everythi
 ## Auto Hot Key
 
 Very useful tool for automating stuff in windows. I primarily use for remapping keyboard keys and custom shortcuts etc. [My autohotkey scripts](https://github.com/anshulkhare7/productivitytools/blob/main/key-remapping.ahk)
+
+## My Cheatsheets
+
+[Linux commands](https://gist.github.com/anshulkhare7/b832b7f456823bcfd52596168e63e4f1)
+
+[Windows commands](https://gist.github.com/anshulkhare7/59b89e9fad0e692ed7eaa256c37dda3d)
+
+[Anaconda commands](https://gist.github.com/anshulkhare7/e160f0d8f00c0a103a4be986aa87855b)
+
+[Intellij keyboard shortcuts](https://gist.github.com/anshulkhare7/e400765ac28746d0027cb6456c42119c)
+
+[Slack keyboard shortcuts](https://gist.github.com/anshulkhare7/adc48a6dcf945bd6b26b3b7136227427)
