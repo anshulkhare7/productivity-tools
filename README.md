@@ -39,6 +39,6 @@ Very useful tool for automating stuff in windows. I primarily use for remapping 
 
 * [Anaconda commands](https://gist.github.com/anshulkhare7/e160f0d8f00c0a103a4be986aa87855b)
 
-* [Intellij keyboard shortcuts](https://gist.github.com/anshulkhare7/e400765ac28746d0027cb6456c42119c)
+* [Intellij keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/intellij-keyboard-shorcuts.md)
 
-* [Slack keyboard shortcuts](https://gist.github.com/anshulkhare7/adc48a6dcf945bd6b26b3b7136227427)
+* [Slack keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/slack-keyboard-shortcuts.md)
