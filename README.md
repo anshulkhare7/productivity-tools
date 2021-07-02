@@ -8,11 +8,11 @@ Ditto is an extension to the standard windows clipboard. It has a quick and easy
 
 ## Browser plugins
 
-Firefox plugin [Multi account containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) lets you segregate the browser tabs into isolated instances (color coded, custom names and rules for associating websites). Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+* Firefox plugin [Multi account containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) lets you segregate the browser tabs into isolated instances (color coded, custom names and rules for associating websites). Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 
-[Temporary containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) allow you to create disposable containers (unlike multi accoutn container which are pre-defined). Saves you the trouble of clearing local storage everytime.
+* [Temporary containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) allow you to create disposable containers (unlike multi accoutn container which are pre-defined). Saves you the trouble of clearing local storage everytime.
 
-Chrome/Firefox plugin [Vimium](https://vimium.github.io/) is for mouse-free browsing. You can pretty much do everything on a browser with keyboard shortcuts.
+* Chrome/Firefox plugin [Vimium](https://vimium.github.io/) is for mouse-free browsing. You can pretty much do everything on a browser with keyboard shortcuts.
 
 ## Anki 
 
