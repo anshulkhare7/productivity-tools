@@ -6,6 +6,12 @@
 
 Ditto is an extension to the standard windows clipboard. It has a quick and easy interface to search through your clipboard items. Available for Windows only.
 
+## Firefox Container plugins
+
+[Multi account containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) lets you segregate the browser tabs into isolated instances (color coded, custom names and rules for associating websites). Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+
+[Temporary containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) allow you to create disposable containers (unlike multi accoutn container which are pre-defined). Saves you the trouble of clearing local storage everytime.
+
 ## Anki 
 
 Anki is an intelligent flash card program that makes remembering things easy. It's based on the idea of [spaced-repetition](https://ncase.me/remember/). Though using someone else's Anki decks isn't much useful but I am sharing mine just in case you want to have a look. 
