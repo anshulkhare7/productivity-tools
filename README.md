@@ -6,11 +6,13 @@
 
 Ditto is an extension to the standard windows clipboard. It has a quick and easy interface to search through your clipboard items. Available for Windows only.
 
-## Firefox Container plugins
+## Browser plugins
 
-[Multi account containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) lets you segregate the browser tabs into isolated instances (color coded, custom names and rules for associating websites). Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+Firefox plugin [Multi account containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) lets you segregate the browser tabs into isolated instances (color coded, custom names and rules for associating websites). Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 
 [Temporary containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) allow you to create disposable containers (unlike multi accoutn container which are pre-defined). Saves you the trouble of clearing local storage everytime.
+
+Chrome/Firefox plugin [Vimium](https://vimium.github.io/) is for mouse-free browsing. You can pretty much do everything on a browser with keyboard shortcuts.
 
 ## Anki 
 
@@ -28,10 +30,6 @@ It allows you to keep the distraction away. Currently available for only Mac.
 ## Tiddly Wiki
 
 Note taking software. It's like a quine - a self replicating html file - with a rich library of plugins. I use it to host my [notes](https://notes.anshulkhare.in/) as static website on github.
-
-## Vimium
-
-Chrome plugin for mouse(touchpad)-free browsing. You can pretty much do everything on a browser with keyboard shortcuts.
 
 ## Auto Hot Key
 
