@@ -48,3 +48,5 @@ Very useful tool for automating stuff in windows. I primarily use for remapping 
 * [Intellij keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/intellij-keyboard-shorcuts.md)
 
 * [Slack keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/slack-keyboard-shortcuts.md)
+
+* [Windows keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/windows-keyboard-shortcuts.md)
