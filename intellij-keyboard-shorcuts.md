@@ -18,6 +18,7 @@
 ### File Navigation
 
 * **Alt + 1** Projects Panel
+* **Alt + 2** Navigate to favourites
 * **Alt + F1** Select current file in the Project Panel
 * **Esc** Go to editor from any panel
 * **Shift + Esc** Minimize the current Panel and go to Editor
@@ -51,6 +52,9 @@
 
 ### Editing - Code generation
 
+* **Suffix string expr with .sout** Wrap the String expression with sysout
+* **Suffix collection expr with .for** Generate for loop for a collection
+* **Suffix boolean expr with .if** Generate if block
 * **iter + Tab** for loop code block 
 * **ifn + Tab** if null code block 
 * **inn + Tab** if not null code block 
@@ -59,11 +63,13 @@
 * **psfi + Tab** `public static final int`
 * **Ctrl + J** Show options for code templates in the current context
 
+_Note: You can create live templates and Postfix expression settings to creat your own_
+
 ### Editing - Code completion
 
-* **Ctrl + Shift + Space** Show code completion options
+* **Ctrl + Shift + Space** Show code completion options (Type safe)
 * **Ctrl + .** Code complete with first item in the options
-* **Ctrl + Shift + Enter** Do code complete
+* **Ctrl + Shift + Enter** Do code complete. Add pair of curly braces for methods/classes/if blocks etc. 
 
 ### Editing - Refactoring
 
@@ -97,4 +103,5 @@
 
 * **Ctrl + Shift + A** Open Action Menu (create scratch files)
 * **Alt + Shift + C** See recent changes in the project
+* **Alt + Shift + F** Add to favourites
 * **Ctrl + Q** View documentation
