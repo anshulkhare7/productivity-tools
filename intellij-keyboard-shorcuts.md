@@ -63,7 +63,7 @@
 * **psfi + Tab** `public static final int`
 * **Ctrl + J** Show options for code templates in the current context
 
-_Note: You can create live templates and Postfix expression settings to creat your own_
+_Note: Use live templates and Postfix expression settings to creat your custom code generation_
 
 ### Editing - Code completion
 
