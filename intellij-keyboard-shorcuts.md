@@ -1,4 +1,4 @@
-# IntelliJ shortcuts
+# IntelliJ shortcuts (Windows)
 
 ### Run/Debugging
 
