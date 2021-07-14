@@ -21,7 +21,7 @@
 |Redo the undo|**Ctrl + R**|
 |Redo the last action|**. (period)**|
 |Start insert in a new line below|**o (small o)**|
-|Start insert in a new line above|**o (capital o)**|
+|Start insert in a new line above|**O (capital o)**|
 |Delete starting from the cursor location to end of the line|**D**|
 |Delete everything between the current brace (or parathesis) & matching closing one|**d%**|
 |Delete next word|**dw**|
