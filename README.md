@@ -4,6 +4,22 @@
 
 # My Productivity Tools
 
+Like most knowledge workers, I spend about 8-9 hours everyday in front of my laptop — coding, writing, or consuming content (text/video).
+
+Coding or writing — acts of producing something new — means crystallizing your thoughts. And you'd agree with me that any such activity is bottlenecked by the physical limitations of tools you use to convert your thoughts on paper (or the computer disk). 
+
+I've stopped counting how many times a fresh insight was completely lost because I couldn't write/type it fast enough. 
+
+So I view productivity tools not just as a means to race through my to-do list but also as a way to be more creative.
+
+When you can compress the lag between what you think and what you do, a new dimension opens up and gives rise to thoughts which haven't been thought before.
+
+Instantaneous feedback allows your interaction to become sort of like a play. As the friction between your action and its results reduces, you're able to internalize the patterns and ideas. The more you internalize, the less burden it has on your working memory and thus opens up the space for new thoughts - thoughts that haven't been thought before.
+
+That's one reason I'm a big proponent of touch typing and keyboard shortcuts.
+
+Here's a list of some of my productivity tools - 
+
 ## Ditto
 
 Ditto is an extension to the standard windows clipboard. It has a quick and easy interface to search through your clipboard items. Available for Windows only.
