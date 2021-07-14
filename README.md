@@ -6,7 +6,7 @@
 
 Like most knowledge workers, I spend about 8-9 hours everyday in front of my laptop — coding, writing, or consuming content (text/video).
 
-Coding or writing — acts of producing something new — means crystallizing your thoughts. And you'd agree with me that any such activity is bottlenecked by the physical limitations of tools you use to convert your thoughts on paper (or the computer disk). 
+Coding or writing are acts of crystallizing your thoughts and producing something new. And you'd agree with me that any such activity is bottlenecked by the physical limitations of tools you use to convert your thoughts on paper (or the computer disk). 
 
 I've stopped counting how many times a fresh insight was completely lost because I couldn't write/type it fast enough. 
 
