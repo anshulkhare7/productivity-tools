@@ -45,8 +45,10 @@ Very useful tool for automating stuff in windows. I primarily use for remapping 
 
 * [Anaconda commands](https://gist.github.com/anshulkhare7/e160f0d8f00c0a103a4be986aa87855b)
 
-* [Intellij keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/intellij-keyboard-shorcuts.md)
+* [Intellij keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/intellij-keyboard-shorcuts.md) 
 
 * [Slack keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/slack-keyboard-shortcuts.md)
 
 * [Windows keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/windows-keyboard-shortcuts.md)
+
+* [Vim cheatsheet](https://github.com/anshulkhare7/productivity-tools/blob/main/vim-shortcuts.md)
