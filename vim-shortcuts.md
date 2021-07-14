@@ -8,4 +8,4 @@
 
 ## Lookup
 
-* Find and Replace **:%s/<find_word>/<replace_word>/g**
+* Find and Replace - **:%s/<find_word>/<replace_word>/g**
