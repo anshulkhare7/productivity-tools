@@ -18,8 +18,8 @@
 
 |Description|Shortcut|
 |:-------------:|-------------|
+|Undo the last action|**u**|
 |Redo the undo|**Ctrl + R**|
-|Redo the last action|**. (period)**|
 |Start insert in a new line below|**o (small o)**|
 |Start insert in a new line above|**O (capital o)**|
 |Delete starting from the cursor location to end of the line|**D**|
@@ -28,7 +28,7 @@
 |Delete previous word|**db**|
 |Delete the current word and enter insert mode (change word)|**cw**|
 |Delete everything on the right of the cursor and enter insert mode|**C**|
-
+|Repeat the last editing action|**. (period)**|
 ## Lookup
 
 |Description|Shortcut|
