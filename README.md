@@ -22,7 +22,7 @@ Here's a list of some of my productivity tools -
 
 ## Ditto
 
-Ditto is an extension to the standard windows clipboard. It has a quick and easy interface to search through your clipboard items. Available for Windows only.
+Ditto is an extension to the standard windows clipboard. It has a quick and easy interface to search through your clipboard items. Available for Windows only. For Mac, I use [Ditto Stack](https://www.dittostack.com/) which is paid and not as feature rich as Ditto but does the job.
 
 ## Browser plugins
 
@@ -44,6 +44,10 @@ Anki is available on Mac, Windows, Android and iOS.
 ## Self Control (Mac)
 
 It allows you to keep the distraction away. Currently available for only Mac.
+
+## Scroll Reverser (Mac)
+
+With Macbook's natural scrolling on trackpad, it becomes a problem when you connect a mouse. [Scroll Reverser](https://pilotmoon.com/scrollreverser/) allows you to set scrolling direction per device, i.e. you can keep the natural scrolling direction for track pad and reverse it for mouse.
 
 ## Tiddly Wiki
 
