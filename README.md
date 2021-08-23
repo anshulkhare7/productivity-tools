@@ -53,6 +53,10 @@ With Macbook's natural scrolling on trackpad, it becomes a problem when you conn
 
 Note taking software. It's like a quine - a self replicating html file - with a rich library of plugins. I use it to host my [notes](https://anshulkhare.in/) as static website on github.
 
+## Amethyst
+
+[Amethyst](https://github.com/ianyh/Amethyst) is a Tiling window manager for macOS. Helps you rearrange (quickly) the windows in a tiled layout, cycle through them, resize them, etc. — all with keyboard shortcuts.
+
 ## Auto Hot Key
 
 Very useful tool for automating stuff in windows. I primarily use for remapping keyboard keys and custom shortcuts etc. [My autohotkey scripts](https://github.com/anshulkhare7/productivitytools/blob/main/key-remapping.ahk)
