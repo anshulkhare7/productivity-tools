@@ -51,11 +51,11 @@ With Macbook's natural scrolling on trackpad, it becomes a problem when you conn
 
 ## Tiddly Wiki
 
-Note taking software. It's like a quine - a self replicating html file - with a rich library of plugins. I use it to host my [notes](https://anshulkhare.in/) as static website on github.
+[Tiddly Wiki](https://tiddlywiki.com/) is a note taking software. It's like a quine - a self replicating html file - with a rich library of plugins. I use it to host my [notes](https://anshulkhare.in/) as static website on github.
 
 ## Amethyst
 
-[Amethyst](https://github.com/ianyh/Amethyst) is a Tiling window manager for macOS. Helps you rearrange (quickly) the windows in a tiled layout, cycle through them, resize them, etc. — all with keyboard shortcuts.
+[Amethyst](https://github.com/ianyh/Amethyst) is a Tiling window manager for macOS. Helps you rearrange (quickly) the windows in a tiled layout, cycle through them, resize them, etc. — all with keyboard shortcuts. [Checkout this 30 sec demo](https://www.youtube.com/watch?v=boPilhScpkY)
 
 ## Auto Hot Key
 
