@@ -80,3 +80,5 @@ Very useful tool for automating stuff in windows. I primarily use for remapping 
 * [Windows keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/windows-keyboard-shortcuts.md)
 
 * [Vim cheatsheet](https://github.com/anshulkhare7/productivity-tools/blob/main/vim-shortcuts.md)
+
+* [VS Code keyboard shortcuts](https://github.com/anshulkhare7/productivity-tools/blob/main/vscode-keyboard-shortcuts.md)
