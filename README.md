@@ -12,9 +12,7 @@ I've stopped counting how many times a fresh insight was completely lost because
 
 So I view productivity tools not just as a means to race through my to-do list but also as a way to be more creative.
 
-When you can compress the lag between what you think and what you do, a new dimension opens up and gives rise to thoughts which haven't been thought before.
-
-Instantaneous feedback allows your interaction to become sort of like a play. As the friction between your action and its results reduces, you're able to internalize the patterns and ideas. The more you internalize, the less burden it has on your working memory and thus opens up the space for new thoughts - thoughts that haven't been thought before.
+When you can compress the lag between what you think and what you do, a new dimension opens up. Instantaneous feedback allows your interaction to become sort of like a play. As the friction between your action and its results reduces, you're able to internalize the patterns and ideas. The more you internalize, the less burden it has on your working memory and thus opens up the space for new thoughts - thoughts that haven't been thought before.
 
 That's one reason I'm a big proponent of touch typing and keyboard shortcuts.
 
