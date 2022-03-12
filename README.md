@@ -22,7 +22,11 @@ Here's a list of some of my productivity tools -
 
 ## Ditto
 
-Ditto is an extension to the standard windows clipboard. It has a quick and easy interface to search through your clipboard items. Available for Windows only. For Mac, I use [Ditto Stack](https://www.dittostack.com/) which is paid and not as feature rich as Ditto but does the job.
+Ditto is an extension to the standard windows clipboard. It has a quick and easy interface to search through your clipboard items. Available for Windows only. ~~For Mac, I use [Ditto Stack](https://www.dittostack.com/) which is paid and not as feature rich as Ditto but does the job.
+
+## Pelican (Mac)
+
+Pelican another clipboard manager for Mac. I've switched from Ditto Stack to Pelican because Pelican has support for images in the clipboard.
 
 ## Browser plugins
 
