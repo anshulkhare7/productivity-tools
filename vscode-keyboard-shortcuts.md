@@ -5,6 +5,9 @@
 * **Cmd + p** : Open a file
 * **Cmd + b** : Toggle sidebar
 * **Ctrl + Shift + Tab** : Navigate opened tabs
+* **Cmd + Shift + E** : Focus on sidebar explorer
+* **Cmd + Shift + i** : Collapse folders in explorer
+* **Cmd + Shift + T** : Re Open the closed editor
  
 ### Code Navigation
 
